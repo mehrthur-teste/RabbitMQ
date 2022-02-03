@@ -1,0 +1,13 @@
+C:\Projetos\RepositorioGit\RabbitMq\ExemploRabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Projetos\RepositorioGit\RabbitMq\ExemploRabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.deps.json
+C:\Projetos\RepositorioGit\RabbitMq\ExemploRabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.runtimeconfig.json
+C:\Projetos\RepositorioGit\RabbitMq\ExemploRabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.runtimeconfig.dev.json
+C:\Projetos\RepositorioGit\RabbitMq\ExemploRabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.dll
+C:\Projetos\RepositorioGit\RabbitMq\ExemploRabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.pdb
+C:\Projetos\RepositorioGit\RabbitMq\ExemploRabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.csprojAssemblyReference.cache
+C:\Projetos\RepositorioGit\RabbitMq\ExemploRabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.AssemblyInfoInputs.cache
+C:\Projetos\RepositorioGit\RabbitMq\ExemploRabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.AssemblyInfo.cs
+C:\Projetos\RepositorioGit\RabbitMq\ExemploRabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.csproj.CoreCompileInputs.cache
+C:\Projetos\RepositorioGit\RabbitMq\ExemploRabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.dll
+C:\Projetos\RepositorioGit\RabbitMq\ExemploRabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.pdb
+C:\Projetos\RepositorioGit\RabbitMq\ExemploRabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.genruntimeconfig.cache
